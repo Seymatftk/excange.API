@@ -1,0 +1,51 @@
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\bin\Debug\net7.0\appsettings.json
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\bin\Debug\net7.0\Exchange.API.exe
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\bin\Debug\net7.0\Exchange.API.deps.json
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\bin\Debug\net7.0\Exchange.API.runtimeconfig.json
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\bin\Debug\net7.0\Exchange.API.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\bin\Debug\net7.0\Exchange.API.pdb
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.AssemblyInfoInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.AssemblyInfo.cs
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\staticwebassets\msbuild.Exchange.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Exchange.API.props
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Exchange.API.props
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Exchange.API.props
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\scopedcss\bundle\Exchange.API.styles.css
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\refint\Exchange.API.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.pdb
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.genruntimeconfig.cache
+C:\Users\FatihGunalp\Desktop\YZL3165\10-Northwind\26.09\Exchange.API\Exchange.API\obj\Debug\net7.0\ref\Exchange.API.dll
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\bin\Debug\net7.0\appsettings.json
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\bin\Debug\net7.0\Exchange.API.exe
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\bin\Debug\net7.0\Exchange.API.deps.json
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\bin\Debug\net7.0\Exchange.API.runtimeconfig.json
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\bin\Debug\net7.0\Exchange.API.dll
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\bin\Debug\net7.0\Exchange.API.pdb
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.AssemblyInfoInputs.cache
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.AssemblyInfo.cs
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.csproj.CoreCompileInputs.cache
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\staticwebassets\msbuild.Exchange.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Exchange.API.props
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Exchange.API.props
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Exchange.API.props
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\scopedcss\bundle\Exchange.API.styles.css
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.dll
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\refint\Exchange.API.dll
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.pdb
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\Exchange.API.genruntimeconfig.cache
+C:\Users\seyma t\Yeni klasör\OneDrive - Bilgeadam Akademi\Masaüstü\Exchange.API\Exchange.API\obj\Debug\net7.0\ref\Exchange.API.dll
